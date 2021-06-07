@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mituBaru
+- 👋 Hi, I’m @mituBarua
 - 🌱 I’m currently learning REACT.
 - 💞️ I’m looking to collaborate on Front End Development Sector.
 - 📫 How to reach me mitubarua766@gmail.com
